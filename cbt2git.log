@@ -1,0 +1,6 @@
+2023-08-06 04:52:54.991456 - Initialized conversion of CBT496
+2023-08-06 04:52:55.031607 - Received CBT.V505.FILE496.PDS from FILE496.XMI 
+2023-08-06 04:52:55.033721 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE496.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:52:55.035073 - Found @FILE496.txt (text/plain) in CBT.V505.FILE496.PDS, moved to PDS/@FILE496
+2023-08-06 04:52:55.036071 - Found TIOT.txt (text/plain) in CBT.V505.FILE496.PDS, moved to PDS/TIOT
+2023-08-06 04:52:55.036974 - Found TIOT01.rexx (text/plain) in CBT.V505.FILE496.PDS, moved to PDS/TIOT01
