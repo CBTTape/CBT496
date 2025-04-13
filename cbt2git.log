@@ -1,0 +1,5 @@
+2025-04-13 20:11:48.177752 - Received CBT.V508.FILE496.PDS from FILE496.XMI 
+2025-04-13 20:11:48.178492 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE496.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:11:48.178572 - Found @FILE496.txt (text/plain) in CBT.V508.FILE496.PDS, moved to PDS/@FILE496
+2025-04-13 20:11:48.178655 - Found TIOT.txt (text/plain) in CBT.V508.FILE496.PDS, moved to PDS/TIOT
+2025-04-13 20:11:48.178740 - Found TIOT01.rexx (text/plain) in CBT.V508.FILE496.PDS, moved to PDS/TIOT01
